@@ -1,5 +1,8 @@
 ![](https://raw.githubusercontent.com/ryusakki/ryusakki/master/question.png)
 
+### About me
+I'm a software engineering student currently working as a software developer. Enthusiastic about games, reverse engineering and low level code.
+
 <!--
 **ryusakki/ryusakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
