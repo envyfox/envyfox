@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/ryusakki/ryusakki/master/question.png)
 
 ### About me
-I'm a graduated software engineer, currently working with C++ development. Enthusiastic of 3D rendering, reverse engineering, and low-level programming.
+I'm a graduated software engineer, currently working with C++ development. Enthusiastic of computer graphics, reverse engineering, and low-level programming.
 
 <!--
 **ryusakki/ryusakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
